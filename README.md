@@ -43,4 +43,5 @@
         microservicecloud-config-client-3355 : 微服务的而集中配置客户端(通过访问服务端进而获取配置)
         microservicecloud-config-dept-client-8001 :微服务的而集中配置客户端(通过访问服务端进而获取配置)
         microservicecloud-config-eureka-client-7001 :微服务的而集中配置客户端(通过访问服务端进而获取配置)
-                                                                                        
+      
+      #SpringCloud2018.mmap 为整个项目的笔记                                                                                  
